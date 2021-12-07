@@ -1,3 +1,6 @@
+// 
+// Done by Vandana
+
 #include "CtlFormula.h"
 #include "KripkeStructure.h"
 #include "State.h"
