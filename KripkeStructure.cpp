@@ -1,5 +1,5 @@
 //
-// Created by Ganesh Tummala on 1December 2021 .
+// Created by Ganesh Tummala on 3 December 2021 .
 //
 
 #include "KripkeStructure.h"
