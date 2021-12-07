@@ -1,5 +1,6 @@
 // 
-// Done by Vandana
+//Created by Vandana on 2 December 2021 .
+//
 
 #include "CtlFormula.h"
 #include "KripkeStructure.h"
